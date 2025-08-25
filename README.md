@@ -32,6 +32,6 @@
 
 <h2 align="center">🏆 Achievement 🏆</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=syj318&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syj318&theme=tokyonight" />
 </p>
 
