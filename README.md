@@ -19,14 +19,13 @@
 </p>
 
 <br><br>
-<h2 align="center">Most Used Languages 📊</h2>
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <a href="https://github.com/syj318">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=syj318&layout=compact&hide_title=true&theme=tokyonight&card_width=550" 
-      alt="Top Langs"
-    />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=syj318&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syj318&theme=tokyonight&hide_border=true" />
+</p>
 </p>
 
 <br><br>
