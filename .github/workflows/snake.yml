@@ -13,6 +13,11 @@ jobs:
       contents: write
 
     steps:
+      # 저장소 가져오기
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Snake 생성
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -21,12 +26,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake to output branch
-        uses: EndBug/add-and-commit@v9
-        with:
-          message: "Generate snake animation"
-          add: "dist"
-
+      # output 브랜치에 배포
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
