@@ -26,10 +26,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syj318&theme=tokyonight" />
 </p>
 
-<br><br
+<br><br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syj318&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syj318&theme=tokyonight&hide_border=true"/>
 </p>
