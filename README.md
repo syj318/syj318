@@ -19,10 +19,10 @@
 </p>
 
 <br><br>
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/syj318/syj318/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syj318&theme=tokyo-night"/>
 </p>
 </p>
 
