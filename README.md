@@ -18,13 +18,6 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
 </p>
 
-<br><br>
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=syj318&theme=tokyo-night"/>
-</p>
-</p>
 
 <br><br>
 
@@ -33,3 +26,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=syj318&theme=tokyonight" />
 </p>
 
+<br><br>
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=syj318&theme=tokyo-night"/>
+</p>
+</p>
