@@ -28,9 +28,8 @@
 
 <br><br>
 
-
-<h2 align="center">🔥 GitHub Streak</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syj318&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/syj318/syj318/output/github-contribution-grid-snake.svg"/>
 </p>
